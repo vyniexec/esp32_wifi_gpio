@@ -8,7 +8,7 @@ Projeto feito com intuito de acionar um relé de uma placa CPU criada nas aulas 
 
 
 ## Placa que foi usada com exemplo
-![image_board](https://github.com/JoseWRPereira/esp32_io_ihm/blob/main/img/esp32_IO-top3D.PNG).
+![image_board](https://github.com/JoseWRPereira/esp32_io_ihm/blob/main/img/esp32_IO-top3D.PNG)
 
 ## Conteúdo das pastas
 
