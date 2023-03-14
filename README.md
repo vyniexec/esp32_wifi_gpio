@@ -16,11 +16,5 @@ O projeto contém um arquivo em linguagem C [main.c](main/main.c). O arquivo est
 
 Os projetos ESP-IDF são construídos usando CMake. A configuração de compilação do projeto está contida nos arquivos CMakeLists.txt que fornecem um conjunto de diretivas e instruções que descrevem os arquivos de origem e destinos do projeto (executável, biblioteca ou ambos).
 ```
-├── CMakeLists.txt
-├── main
-│   ├── CMakeLists.txt
-│   └── main.c
-└── README.md                  This is the file you are currently reading
-```
-Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
-They are not used or needed when building with CMake and idf.py.
+Além disso, o projeto de amostra contém os arquivos Makefile e component.mk, usados ​​para o sistema legado de compilação baseado em Make.
+Eles não são usados ​​ou necessários ao compilar com CMake e idf.py.
