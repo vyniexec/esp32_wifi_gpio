@@ -2,18 +2,18 @@ menu "Configuração da REDE"
 
     config ESP_WIFI_SSID
         string "WiFi SSID"
-        default "NOME_DA_REDE"
+        default "Vini"
         help
             SSID (nome da rede) para a qual se conectar.
 
     config ESP_WIFI_PASSWORD
         string "WiFi Password"
-        default "SENHA_DA_REDE"
+        default "Vini2131"
         help
             WiFi senha (WPA ou WPA2) a qual se conectar.
 
     config ESP_MAXIMUM_RETRY
-        string "Numero de tentivas"
+        string "5"
         default 5
         help
             Defina o numero de tentiva para se reconectar caso for necessaria.

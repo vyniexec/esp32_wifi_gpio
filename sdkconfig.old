@@ -307,12 +307,12 @@ CONFIG_PARTITION_TABLE_MD5=y
 # end of Partition Table
 
 #
-# Example Configuration
+# Configuração da REDE
 #
-CONFIG_ESP_WIFI_SSID="SENAI_CORP"
-CONFIG_ESP_WIFI_PASSWORD="ac1ce2ss7"
-CONFIG_ESP_MAXIMUM_RETRY=5
-# end of Example Configuration
+CONFIG_ESP_WIFI_SSID="Vini"
+CONFIG_ESP_WIFI_PASSWORD="vini2131"
+CONFIG_ESP_MAXIMUM_RETRY="5"
+# end of Configuração da REDE
 
 #
 # Compiler options

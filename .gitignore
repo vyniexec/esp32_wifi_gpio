@@ -1,0 +1,6 @@
+sdkcondig
+sdkcondig.old
+/build
+/.devcontainer
+/.vscode
+#Incluindo as pasta ou arquivos a serem ignorados pelo GIT.
