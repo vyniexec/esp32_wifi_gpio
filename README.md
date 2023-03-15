@@ -12,7 +12,7 @@ Projeto feito com intuito de acionar um relé de uma placa CPU criada nas aulas 
 
 ## Conteúdo das pastas
 
-O projeto contém um arquivo em linguagem C sendo eles:
+O projeto contém um arquivos em linguagem C sendo eles:
 * [MAIN](main/main.c) esse arquivo é o arquivo que contém a função main e suas subsfunções
 
 * [RELÉ](main/acionamento_rele) já essa pasta, contém toda parte de acionamento do relé, aonde é definido as saídas do ESP32 para acionar o relé
