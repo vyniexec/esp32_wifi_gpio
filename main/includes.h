@@ -26,7 +26,7 @@
 #define RESGIS 14
 
 /* == Nome da tag para depuração == */
-static const char *TAG = "espressif"; 
+static const char *TAG = "@vyni1208"; 
 
 /* == Criando a API JSON == */
 static const char *ON_RESP = "{\"status\": \"on\"}";
